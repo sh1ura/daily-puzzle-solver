@@ -5,3 +5,8 @@
 * normal.stl : moderate difficulty (9 pieces)
 * hard.stl : hard version (8 larger pieces)
 * puzzle.blend : blender file of the design
+
+## print tips
+
+* To give a different color to the texts and grid lines, use "pause at height" function of Cura slicer to switch the material during 3D print. Change the material at height=1.5mm.
+* 
