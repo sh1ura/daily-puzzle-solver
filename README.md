@@ -4,7 +4,7 @@
 
 <a href="https://www.dragonfjord.com/product/a-puzzle-a-day/">A-puzzle-a-day</a> is truly genious and I like it, but it seems too difficult for children (and, to be honest, for me too). However, the design of the puzzle is <a href="https://euipo.europa.eu/eSearch/#details/designs/007690433-0001">registered</a> to the international patent office, and minor modification might still infringe their rights. Therefore I designed thoroughly modified version. 
 
-My design, named "Daily puzzle", has month and date squares mixed together. Additionally, six wildcards `*` are placed to simplify the shape of the base board. I prepared four types of piece sets with vairious difficulties. 
+My design, named "Daily puzzle", has month and date cells mixed together. Additionally, six wildcard cells `*` are placed to simplify the shape of the base board. I prepared four types of piece sets with vairious difficulties. 
 
 I confirmed there are at least one solution for each month/date combination using solver/checker programs. The solver is also capable of original "A-puzzle-a-day". Solutions (results of the solver) are also provided.
 
