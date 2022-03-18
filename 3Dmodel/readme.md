@@ -1,10 +1,10 @@
 # 3D model of the puzzle (my own design only)
 
 * board.stl : base board, common for three types of piece sets.
-* hard.stl : hard version (8 larger pieces)
-* normal.stl : moderate difficulty (9 pieces)
-* easy.stl : easier version (10 smaller pieces)
-* very-easy.stl : very easy version (11 pieces)
+* 8p.stl : 8 pieces
+* 9p.stl : 9 pieces
+* 10p.stl : 10 pieces
+* 11p.stl : 11 pieces, the easiest version
 * puzzle.blend : blender file of the design
 
 ## print tips
