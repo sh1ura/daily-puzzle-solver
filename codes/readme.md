@@ -10,13 +10,11 @@
 * checker.c : main program of the checker
 * puzzlelib.c : support library to solve the puzzle. Common for both of solver and checker.
 * original.c : definition of the original "A-puzzle-a-day" board and pieces.
-* easy.c : definition of the easier version with 10 pieces. 
-* normal.c : definition of the moderate difficulty version with 9 pieces.
-* hard.c : definiton of the harder version with 8 pieces.
+* 8p.c, 9p.c, 10p.c, 11p.c : definition of the board and pieces
 
 ## How to configure
 
-* Edit source code (puzzlelib.c) to switch original/easy/normal/hard
+* Edit source code (puzzlelib.c) to switch 8p / 9p / 10p / 11p
 * If you want to see the all solutions of spedified month and date, change the value defined for `FIND_ALL_SOLUTION` to 1.
 
 ## How to compile
