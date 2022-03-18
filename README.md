@@ -7,7 +7,11 @@
 * The solver is also capable of original "A-puzzle-a-day".
 * Solutions (results of the solver) is also provided.
 
-# My puzzle design
+## Summary
+
+[table.pdf](https://github.com/sh1ura/daily-puzzle-and-its-solver/files/8299587/table.pdf)
+
+## My puzzle design
 
 ![board](https://user-images.githubusercontent.com/86639425/158854094-815956f0-2752-4f6f-9332-3b678d5c1a63.jpg)
 Common board for 3 types of piece sets with different difficulties.
