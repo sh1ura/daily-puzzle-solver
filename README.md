@@ -12,8 +12,7 @@ I confirmed there are at least one solution for each month/date combination usin
 
 ## Summary
 
-![table](https://user-images.githubusercontent.com/86639425/158952827-cc8ee1a6-271f-4bb6-b0e7-034ffcdfd207.jpg)
-
+![table](https://user-images.githubusercontent.com/86639425/159030698-6f940a64-2e53-45c8-bda2-b824bc3f8c2f.jpg)
 
 ## My puzzle design
 
