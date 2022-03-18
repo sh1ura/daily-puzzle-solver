@@ -6,13 +6,15 @@
 
 My design, named "Daily puzzle", has month and date cells mixed together. Additionally, six wildcard cells `*` are placed to simplify the shape of the base board. I prepared four types of piece sets with vairious difficulties (different number of pieces). 
 
-I confirmed there are at least one solution for each month/date combination using solver/checker programs. The solver is also capable of original "A-puzzle-a-day". Solutions (results of the solver) are also provided.
+I confirmed there are at least one solution for each month/date combination using solver programs. The solver is also capable of original "A-puzzle-a-day". All solutions (results of the solver) are also provided.
 
 ![daily-puzzle](https://user-images.githubusercontent.com/86639425/159033746-7fef4836-4e8a-4dd3-8dae-41bc46cb3ac4.jpg)
 
-## Summary
+## Number of pieces and difficulties
 
-![table](https://user-images.githubusercontent.com/86639425/159030698-6f940a64-2e53-45c8-bda2-b824bc3f8c2f.jpg)
+![table](https://user-images.githubusercontent.com/86639425/159051443-4f6d26db-561e-4b1d-aa51-2a7211339764.jpg)
+
+At first, I thought that the fewer and larger pieces make the puzzle more difficult. However, after some trials, I found that this relationship is not so clear. In fact, as shown above, the more pieces we have, the more solutions exist. However, the number of possible piece arrangements also increases, and it makes the puzzle more difficult. At least, 11 pieces version is clearly the easiest, but the other three versions are not so different I think.
 
 ## My puzzle design
 
