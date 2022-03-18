@@ -9,7 +9,7 @@
 
 ## Summary
 
-[table.pdf](https://github.com/sh1ura/daily-puzzle-and-its-solver/files/8299587/table.pdf)
+![table](https://user-images.githubusercontent.com/86639425/158927980-4509329b-7e42-444a-bb10-e89d39a2a79e.jpg)
 
 ## My puzzle design
 
