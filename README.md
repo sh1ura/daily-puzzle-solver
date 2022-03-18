@@ -1,11 +1,13 @@
 # "Daily puzzle" and its solver program
 
+![print](https://user-images.githubusercontent.com/86639425/158929917-5692e720-60ac-44f6-9463-2ae9586f695e.jpg)
+
 ## A variant of "a-puzzle-a-day" type daily puzzle and its solver / checker.
 
-* Since original <a href="https://www.dragonfjord.com/product/a-puzzle-a-day/">A-puzzle-a-day</a> is genious but <a href="https://euipo.europa.eu/eSearch/#details/designs/007690433-0001">registered (patented)</a>, I designed my original version of similar daily puzzle. It has month and date grids mixed together, and six wildcards '*' are placed to make the shape of the puzzle square.
+* Since original <a href="https://www.dragonfjord.com/product/a-puzzle-a-day/">A-puzzle-a-day</a> is genious but <a href="https://euipo.europa.eu/eSearch/#details/designs/007690433-0001">registered (patented)</a>, I designed my original version. It has month and date squares mixed together, and six wildcards '*' are placed to make the shape of the puzzle square.
 * The original "A-puzzle-a-day" is quite difficult for children (and, to be honest, for me), so I designed three types of piece sets with different difficulties. With solver/checker programs, I confirmed there are at least one solution for each month/date combination.
 * The solver is also capable of original "A-puzzle-a-day".
-* Solutions (results of the solver) is also provided.
+* Solutions (results of the solver) are also provided.
 
 ## Summary
 
