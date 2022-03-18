@@ -8,7 +8,7 @@ My design, named "Daily puzzle", has month and date squares mixed together. Addi
 
 I confirmed there are at least one solution for each month/date combination using solver/checker programs. The solver is also capable of original "A-puzzle-a-day". Solutions (results of the solver) are also provided.
 
-![print](https://user-images.githubusercontent.com/86639425/158929917-5692e720-60ac-44f6-9463-2ae9586f695e.jpg)
+![daily-puzzle](https://user-images.githubusercontent.com/86639425/159033746-7fef4836-4e8a-4dd3-8dae-41bc46cb3ac4.jpg)
 
 ## Summary
 
