@@ -4,7 +4,7 @@
 
 ## A variant of "a-puzzle-a-day" type daily puzzle and its solver.
 
-* Since original <a href="https://www.dragonfjord.com/product/a-puzzle-a-day/">A-puzzle-a-day</a> is genious but <a href="https://euipo.europa.eu/eSearch/#details/designs/007690433-0001">registered (patented)</a>, I designed my original version. It has month and date squares mixed together, and six wildcards '*' are placed to make the shape of the puzzle square.
+* Since original <a href="https://www.dragonfjord.com/product/a-puzzle-a-day/">A-puzzle-a-day</a> is truly genious but <a href="https://euipo.europa.eu/eSearch/#details/designs/007690433-0001">registered</a>, I designed my original version. It has month and date squares mixed together, and six wildcards '*' are placed to make the shape of the puzzle square.
 * The original "A-puzzle-a-day" is quite difficult for children (and, to be honest, for me), so I designed three types of piece sets with different difficulties. With solver/checker programs, I confirmed there are at least one solution for each month/date combination.
 * The solver is also capable of original "A-puzzle-a-day".
 * Solutions (results of the solver) are also provided.
