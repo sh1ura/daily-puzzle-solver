@@ -26,4 +26,4 @@
 ## Algorithm
 
 * The solver finds a solution by blute-force search with recursive algorithm.
-* The checker traverses the all possible piece arrangement, then check the result (position of vacant grids) to count the number of solutions for each month/date.
+* The checker traverses the tree of all possible piece arrangement, then check the result (position of vacant grids) to count the number of solutions for each month/date.
