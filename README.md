@@ -11,7 +11,8 @@
 
 ## Summary
 
-![table](https://user-images.githubusercontent.com/86639425/158927980-4509329b-7e42-444a-bb10-e89d39a2a79e.jpg)
+![table](https://user-images.githubusercontent.com/86639425/158952827-cc8ee1a6-271f-4bb6-b0e7-034ffcdfd207.jpg)
+
 
 ## My puzzle design
 
