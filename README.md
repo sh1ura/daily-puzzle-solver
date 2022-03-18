@@ -1,6 +1,6 @@
-# "Daily puzzle" and its solver program
+# "Daily puzzle" and its solver
 
-## A variant of "a-puzzle-a-day" type daily puzzle and its solver.
+## A variant of "a-puzzle-a-day" type puzzle and its solver.
 
 <a href="https://www.dragonfjord.com/product/a-puzzle-a-day/">A-puzzle-a-day</a> is truly genious and I like it, but it seems too difficult for children (and, to be honest, for me too). However, the design of the puzzle is <a href="https://euipo.europa.eu/eSearch/#details/designs/007690433-0001">registered</a> to the international patent office, and minor modification might still infringe their rights. Therefore I designed thoroughly modified version. 
 
@@ -14,7 +14,7 @@ I confirmed there are at least one solution for each month/date combination usin
 
 ![table](https://user-images.githubusercontent.com/86639425/159051443-4f6d26db-561e-4b1d-aa51-2a7211339764.jpg)
 
-At first, I thought that the fewer and larger pieces make the puzzle more difficult. However, after some trials, I found that this relationship is not so clear. In fact, as shown above, the more pieces we have, the more solutions exist. However, the number of possible piece arrangements also increases, and it makes the puzzle more difficult. At least, 11 pieces version is clearly the easiest, but the other three versions are not so different I think.
+At first, I thought that the fewer and larger pieces make the puzzle more difficult. However, after some trials, I found that this relationship is not so clear. In fact, as shown above, the more pieces we have, the more solutions exist. However, the number of possible arrangements also increases, and it makes the puzzle more difficult. At least, 11 pieces version is clearly the easiest, but the other three versions are not so different I think.
 
 ## My puzzle design
 
@@ -31,4 +31,4 @@ Common board for all types of piece sets
 10 pieces
 
 ![very-easy](https://user-images.githubusercontent.com/86639425/158950716-4e12fa6f-8919-4f75-88bc-c94546e5d21f.jpg)
-11 pieces, easiest version
+11 pieces, the easiest version
