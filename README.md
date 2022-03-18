@@ -4,10 +4,11 @@
 
 ## A variant of "a-puzzle-a-day" type daily puzzle and its solver.
 
-* Since original <a href="https://www.dragonfjord.com/product/a-puzzle-a-day/">A-puzzle-a-day</a> is truly genious but <a href="https://euipo.europa.eu/eSearch/#details/designs/007690433-0001">registered</a>, I designed my original version. It has month and date squares mixed together, and six wildcards '*' are placed to make the shape of the puzzle square.
-* The original "A-puzzle-a-day" is quite difficult for children (and, to be honest, for me), so I designed four types of piece sets with different difficulties. With solver/checker programs, I confirmed there are at least one solution for each month/date combination.
-* The solver is also capable of original "A-puzzle-a-day".
-* Solutions (results of the solver) are also provided.
+<a href="https://www.dragonfjord.com/product/a-puzzle-a-day/">A-puzzle-a-day</a> is truly genious and I like it, but it seems too difficult for children (and, to be honest, for me too). However, the design of the puzzle is <a href="https://euipo.europa.eu/eSearch/#details/designs/007690433-0001">registered</a> to the international patent office, and minor modification might still infringe their rights. Therefore I designed thoroughly modified version. 
+
+My design, named "Daily puzzle", has month and date squares mixed together. Additionally, six wildcards `*` are placed to simplify the shape of the base board. I prepared four types of piece sets with vairious difficulties. 
+
+I confirmed there are at least one solution for each month/date combination using solver/checker programs. The solver is also capable of original "A-puzzle-a-day". Solutions (results of the solver) are also provided.
 
 ## Summary
 
