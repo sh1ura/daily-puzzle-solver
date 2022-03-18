@@ -2,28 +2,29 @@
 
 ## programs
 
-* solver : Find and show solutions. if you run this executable without arguments, it shows the solutions of all month/date. Or you can specify the date by `./solver <month> <date>` style.
-* checker : Count the number of solutions of the all date. 
+* solver : It finds and shows the solutions. if you run this executable without arguments, it shows the solutions of all month/date. Or you can specify date to be solved by `./solver <month> <date>` in command line.
+* checker : It counts the number of solutions of the all date. 
 
 ## files
-* puzzlelib.c : support library to solve the puzzle. Common for both of solver and checker.
 * solver.c : main program of the solver
 * checker.c : main program of the checker
+* puzzlelib.c : support library to solve the puzzle. Common for both of solver and checker.
 * original.c : definition of the original "A-puzzle-a-day" board and pieces.
 * easy.c : definition of the easier version with 10 pieces. 
-* normal.c : definition of the moderate version with 9 pieces.
+* normal.c : definition of the moderate difficulty version with 9 pieces.
 * hard.c : definiton of the harder version with 8 pieces.
 
 ## How to configure
 
 * Edit source code (puzzlelib.c) to switch original/easy/normal/hard
-* If you want to see the all solutions for spedified month and date, change the value defined for `FIND_ALL_SOLUTION` to 1.
+* If you want to see the all solutions of spedified month and date, change the value defined for `FIND_ALL_SOLUTION` to 1.
 
 ## How to compile
 
 * In the UNIX like environment, just run `make` in the folder.
+* Here I do not use separate compilation and link manner but just direct #include-ing of C sources.
 
 ## Algorithm
 
-* The solver just find the solution with blute-force search with recursive algorithm.
-* The checker traverses the all possible piece arrangement, then check the result (vacant grids) to count the number of solutions for each month/date.
+* The solver finds a solution by blute-force search with recursive algorithm.
+* The checker traverses the all possible piece arrangement, then check the result (position of vacant grids) to count the number of solutions for each month/date.
