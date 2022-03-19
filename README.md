@@ -8,7 +8,8 @@ My design, named "Daily puzzle", has month and date cells mixed together. Additi
 
 I confirmed there are at least one solution for each month/date combination using solver programs. The solver is also capable of original "A-puzzle-a-day". All solutions (results of the solver) are also provided.
 
-![daily-puzzle](https://user-images.githubusercontent.com/86639425/159033746-7fef4836-4e8a-4dd3-8dae-41bc46cb3ac4.jpg)
+![daily-puzzle-ss](https://user-images.githubusercontent.com/86639425/159103329-bf56ae79-b869-4954-9d91-f7f9315971f6.jpg)
+
 
 ## Number of pieces and difficulties
 
