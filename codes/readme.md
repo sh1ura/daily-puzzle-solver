@@ -25,5 +25,12 @@
 
 ## Algorithm
 
-* The solver finds a solution by blute-force search with recursive algorithm.
+### checker
 * The checker traverses the tree of all possible piece arrangement, then check the result (position of vacant grids) to count the number of solutions for each month/date.
+
+### solver
+
+1. Search empty cell from top left.
+2. Try to fill the empty cell by using all possible poses and positions of all remaining (unused) pieces.
+3. If the empty cell can be filled by the piece without collisions, place the piece there.
+4. If there is still unused piece, repeat ( = recursive call of) the process from 1.
