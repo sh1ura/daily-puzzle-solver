@@ -1,12 +1,14 @@
-# "Daily puzzle" and its solver
+# "Daily puzzle" solver
 
-## A variant of "a-puzzle-a-day" type puzzle and its solver.
+## A Solver of "a-puzzle-a-day" and its my own variants
 
 <a href="https://www.dragonfjord.com/product/a-puzzle-a-day/">A-puzzle-a-day</a> is truly genius and I like it, but it seems too difficult for children (and, to be honest, for me too). However, the design of the puzzle is <a href="https://euipo.europa.eu/eSearch/#details/designs/007690433-0001">registered to the intellectual property office</a>, and minor modification might still infringe their rights. Therefore I designed thoroughly modified version from scratch. 
 
 My design, named "Daily puzzle", has month and date cells mixed together. Additionally, six wildcard cells `*` are placed to simplify the shape of the base board. I prepared four types of piece sets with various difficulties (different number of pieces). 
 
 I confirmed there are at least one solution for each month/date combination using solver programs. The solver is also capable of original "A-puzzle-a-day". All solutions (results of the solver) are also provided.
+
+I just make the idea of the puzzle public, but no 3D data of the puzzle now. I recommend [Daily Hexagonal Puzzle](https://github.com/sh1ura/daily-hex-puzzle) because of the more strict originarity.
 
 ![daily-puzzle-ss](https://user-images.githubusercontent.com/86639425/159103329-bf56ae79-b869-4954-9d91-f7f9315971f6.jpg)
 
